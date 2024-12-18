@@ -1,8 +1,11 @@
 # Swan Telecom Customer Churn Classification
 
 ## Team Members:
+
 @lucyewbank
+
 @iliyangenkov
+
 @Ale42RA -- Maria Alejandra Rivas 
 
 ## Project Overview
