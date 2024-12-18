@@ -1,5 +1,10 @@
 # Swan Telecom Customer Churn Classification
 
+## Team Members:
+@lucyewbank
+@iliyangenkov
+@Ale42RA -- Maria Alejandra Rivas 
+
 ## Project Overview
 
 This project aims to analyze and predict customer churn for Swan Telecom using a classification model. By identifying patterns and predictors of churn, Swan Telecom can take proactive measures to retain customers and improve business performance.
