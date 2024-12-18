@@ -35,6 +35,7 @@ This project aims to analyze and predict customer churn for Swan Telecom using a
 Main Notebook: swan.ipynb
 
 The swan.ipynb notebook serves as the central hub for this project. It contains:
-	1.	The step-by-step implementation of data cleaning, feature engineering, and EDA.
-	2.	Code for training and evaluating the classification models.
-	3.	Visualizations and insights drawn from the data.
+
+ 1.	The step-by-step implementation of data cleaning, feature engineering, and EDA.	
+ 2.	Code for training and evaluating the classification models.	
+ 3.	Visualizations and insights drawn from the data.
